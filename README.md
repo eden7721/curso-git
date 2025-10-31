@@ -1,2 +1,4 @@
 # Curso de _Git_ & _GitHub_
-Hola soy tu amigo y docente digital Jonathan Mircha, bienvenid@s a mi curso.
+Curso que llevo con mi amigo y docente digital Jonathan Mircha
+
+Agregando más contenido al README
